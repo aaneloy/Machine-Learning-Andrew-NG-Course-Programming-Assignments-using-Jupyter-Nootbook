@@ -7,7 +7,7 @@ I've Finished Andrew Ng's Machine Learning course, hopefully I will be able to m
 
 Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/tree/master/Dataset)
 
-# Exercise
+# Algorithms and Exercise
 [Multivariate Linear Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Multivariate%20Linear%20Regression.ipynb)
 
 Normal Equation
