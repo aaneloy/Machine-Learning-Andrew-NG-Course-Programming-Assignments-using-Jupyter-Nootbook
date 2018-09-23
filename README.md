@@ -10,7 +10,7 @@ Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-A
 # Algorithms and Exercise
 [Multivariate Linear Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Multivariate%20Linear%20Regression.ipynb)
 
-Normal Equation
+[Normal Equation](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Normal%20Equation.ipynb)
 
 Univariate linear Regression
 
