@@ -12,7 +12,7 @@ Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-A
 
 [Normal Equation](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Normal%20Equation.ipynb)
 
-Univariate linear Regression
+[Univariate linear Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Univariate%20linear%20Regression.ipynb)
 
 Regularized Logistic Regression
 
