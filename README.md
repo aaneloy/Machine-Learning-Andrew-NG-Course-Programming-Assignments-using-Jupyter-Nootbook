@@ -9,3 +9,15 @@ Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-A
 
 # Exercise
 [Multivariate Linear Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Multivariate%20Linear%20Regression.ipynb)
+
+Normal Equation
+
+Univariate linear Regression
+
+Regularized Logistic Regression
+
+Unregularized Logistic Regression
+
+Multiclass Classification
+
+Recommender system
