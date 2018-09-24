@@ -14,7 +14,7 @@ Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-A
 
 [Univariate linear Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Univariate%20linear%20Regression.ipynb)
 
-Regularized Logistic Regression
+[Regularized Logistic Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Regularized%20Logistic%20Regression.ipynb)
 
 Unregularized Logistic Regression
 
