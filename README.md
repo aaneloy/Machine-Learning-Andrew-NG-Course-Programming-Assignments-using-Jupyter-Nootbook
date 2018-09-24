@@ -16,7 +16,7 @@ Find the necessary dataset [here](https://github.com/NeloyNSU/Machine-Learning-A
 
 [Regularized Logistic Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Regularized%20Logistic%20Regression.ipynb)
 
-Unregularized Logistic Regression
+[Unregularized Logistic Regression](https://github.com/NeloyNSU/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook/blob/master/Algorithms/Unregularized%20Logistic%20Regression.ipynb)
 
 Multiclass Classification
 
